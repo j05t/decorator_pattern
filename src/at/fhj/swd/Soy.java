@@ -1,7 +1,7 @@
 package at.fhj.swd;
 
 /*
- * Soy is a decorator, so we exend CondimentDecorator
+ * Soy is a decorator, so we extend CondimentDecorator
  * (CondimentDecorator extends Beverage)
  */
 

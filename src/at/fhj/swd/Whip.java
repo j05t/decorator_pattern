@@ -1,7 +1,7 @@
 package at.fhj.swd;
 
 /*
- * Whip is a decorator, so we exend CondimentDecorator
+ * Whip is a decorator, so we extend CondimentDecorator
  * (CondimentDecorator extends Beverage)
  */
 

@@ -1,7 +1,7 @@
 package at.fhj.swd;
 
 /*
- * Mocha is a decorator, so we exend CondimentDecorator
+ * Mocha is a decorator, so we extend CondimentDecorator
  * (CondimentDecorator extends Beverage)
  */
 
